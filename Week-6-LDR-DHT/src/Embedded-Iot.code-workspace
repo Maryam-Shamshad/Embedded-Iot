@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Embedded-Iot"
+		},
+		{
+			"name": "Week-6-LDR-DHT",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
